@@ -201,9 +201,7 @@
       </v-card-text>
       <v-card-actions v-if="!uploaded">
         <p class="text-center grey--text caption px-12 px-xs-0">
-          By submitting your videos to YouTube, you acknowledge that you agree
-          to YouTube's Terms of Service and Community Guidelines. Please be sure
-          not to violate others' copyright or privacy rights. Learn more
+          copyright or privacy rights. Learn more
         </p>
       </v-card-actions>
     </v-card>
